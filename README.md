@@ -7,17 +7,17 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=25&color=30FF40&background=000000&center=true&vCenter=true&width=360&height=60&lines=Hello+World%2C+I'm+Mr-NAYAN+Here+🤙;𝙸𝚃'𝚜+𝙽𝙾𝚃+𝙰+𝙹𝚄𝚂𝚃+𝙽𝙰𝙼𝙴+𝙱𝚁𝙾+🥱;𝙸𝚃'𝚜+𝙰+𝙱𝚁𝙰𝙽𝙳+🔥;Respect+Mr.NAYAN+🥀;Thanks+My+All+Friend+🤙+🥰)](https://git.io/typing-svg)
 
 
-<a href="https://www.npmjs.com/package/nayan-media-downloader"><img alt="npm version" src="https://img.shields.io/npm/v/nayan-media-downloader.svg?style=flat-square"></a>
-<img alt="version" src="https://img.shields.io/github/package-json/v/MOHAMMAD-NAYAN/nayan-media-downloader?label=github&style=flat-square">
-<a href="https://www.npmjs.com/package/nayan-media-downloader"><img src="https://img.shields.io/npm/dm/nayan-media-downloader.svg?style=flat-square" alt="npm downloads"></a>
-[![Socket Badge](https://socket.dev/api/badge/npm/package/nayan-media-downloader/2.6.7)](https://socket.dev/npm/package/nayan-media-downloader/overview/2.6.7)
-[![js dilvr](https://data.jsdelivr.com/v1/package/npm/nayan-media-downloader/badge)](https://www.jsdelivr.com/package/npm/nayan-media-downloader)
+<a href="https://www.npmjs.com/package/nayan-video-downloader"><img alt="npm version" src="https://img.shields.io/npm/v/nayan-video-downloader.svg?style=flat-square"></a>
+<img alt="version" src="https://img.shields.io/github/package-json/v/MOHAMMAD-NAYAN/nayan-video-downloader?label=github&style=flat-square">
+<a href="https://www.npmjs.com/package/nayan-video-downloader"><img src="https://img.shields.io/npm/dm/nayan-video-downloader.svg?style=flat-square" alt="npm downloads"></a>
+[![Socket Badge](https://socket.dev/api/badge/npm/package/nayan-video-downloader/2.6.7)](https://socket.dev/npm/package/nayan-video-downloader/overview/2.6.7)
+[![js dilvr](https://data.jsdelivr.com/v1/package/npm/nayan-video-downloader/badge)](https://www.jsdelivr.com/package/npm/nayan-video-downloader)
 
-[![GitHub contributors](https://img.shields.io/github/contributors/MOHAMMAD-NAYAN/nayan-media-downloader)](https://github.com/MOHAMMAD-NAYAN/nayan-media-downloader/graphs/contributors) [![GitHub issues](https://img.shields.io/github/issues/MOHAMMAD-NAYAN/nayan-media-downloader)](https://github.com/MOHAMMAD-NAYAN/nayan-media-downloader/issues) [![HitCount](https://views.whatilearened.today/views/github/MOHAMMAD-NAYAN/nayan-media-downloader.svg)](https://github.com/MOHAMMAD-NAYAN/nayan-media-downloader) [![creator nayan69.vercel.app](https://img.shields.io/website-up-info-green-red/http/nayan69.vercel.app/creative-profile-readme.svg)](https://nayan69.vercel.app/)
+[![GitHub contributors](https://img.shields.io/github/contributors/MOHAMMAD-NAYAN/nayan-video-downloader)](https://github.com/MOHAMMAD-NAYAN/nayan-video-downloader/graphs/contributors) [![GitHub issues](https://img.shields.io/github/issues/MOHAMMAD-NAYAN/nayan-video-downloader)](https://github.com/MOHAMMAD-NAYAN/nayan-video-downloader/issues) [![HitCount](https://views.whatilearened.today/views/github/MOHAMMAD-NAYAN/nayan-video-downloader.svg)](https://github.com/MOHAMMAD-NAYAN/nayan-video-downloader) [![creator nayan69.vercel.app](https://img.shields.io/website-up-info-green-red/http/nayan69.vercel.app/creative-profile-readme.svg)](https://nayan69.vercel.app/)
 
 ## Instalation :
 ```bash
-> npm i nayan-media-downloader
+> npm i nayan-video-downloader
 ```
 ## Last Update 
 ```print
@@ -28,7 +28,7 @@
 
 ## Example (fb & insta)
 ```js
-const { ndown } = require("nayan-media-downloader")
+const { ndown } = require("nayan-video-downloader")
 let URL = await ndown("https://www.facebook.com/100000959749712/posts/pfbid0288xi44nvodK9d7r3wf4LHeM3dtEsVghQXmz5t59axwz7KdLStYyg4qfvTVrAL27Ll/?app=fbl")
 console.log(URL)
 ```
@@ -69,7 +69,7 @@ console.log(URL)
 ```
 ## Instagram Usage 
 ```js
-const {instagram} = require("nayan-media-downloader");
+const {instagram} = require("nayan-video-downloader");
 
 const link = "https://www.instagram.com/p/DAxzjkAyWOm/?igsh=MTZ5eThrMXpteTFpOA==" //past video link
 
@@ -81,7 +81,7 @@ const link = "https://www.instagram.com/p/DAxzjkAyWOm/?igsh=MTZ5eThrMXpteTFpOA==
 ```
 ## Example (TikTok)
 ```js
-const { tikdown } = require("nayan-media-downloader")
+const { tikdown } = require("nayan-video-downloader")
 let URL = await tikdown("https://vt.tiktok.com/ZSNvs6h6o/")
 console.log(URL)
 ```
@@ -113,13 +113,13 @@ console.log(URL)
 ```
 ## Example (YouTube)
 ```js
-const { ytdown } = require("nayan-media-downloader")
+const { ytdown } = require("nayan-video-downloader")
 let URL = await ytdown("https://youtu.be/aRSuyrZFu_Q?si=bsfzgeeGmRpsHqnF")
 console.log(URL)
 ```
 ## Example (Twitter)
 ```js
-const { twitterdown } = require("nayan-media-downloader")
+const { twitterdown } = require("nayan-video-downloader")
 let URL = await twitterdown("https://twitter.com/TeamAbhiSha/status/1743351410761019794?t=vms8wxcU0mQuhVxwGCHjFw&s=19")
 console.log(URL)
 ```
@@ -138,7 +138,7 @@ console.log(URL)
 ```
 ## Example Fbdown 
 ```js
-const { fbdown } = require("nayan-media-downloader");
+const { fbdown } = require("nayan-video-downloader");
 const request = require('request')
 
 const key = "Nayan" //dont change key
@@ -170,7 +170,7 @@ fbdown(link, cookie, key).then(data => {
  ```
 ## Example Fbdown2
 ```js
-const { fbdown2 } = require("nayan-media-downloader");
+const { fbdown2 } = require("nayan-video-downloader");
 const request = require('request')
 
 const key = "Nayan" //dont change key
@@ -198,7 +198,7 @@ fbdown2(link, key).then(data => {
 
 ## Usage GDLink 
 ```js
-const {GDLink} = require("nayan-media-downloader");
+const {GDLink} = require("nayan-video-downloader");
 
 const url = 'url' // Public Google Drive Url
 
@@ -209,7 +209,7 @@ GDLink(url).then(data => {
 ```
 ## Usage Pintarest 
 ```js
-const {pintarest} = require("nayan-media-downloader");
+const {pintarest} = require("nayan-video-downloader");
 
 const url = 'url' // pintarest post url
 
@@ -219,7 +219,7 @@ const url = 'url' // pintarest post url
 ```
 ## Usage CapCut 
 ```js
-const { capcut } = require("nayan-media-downloader");
+const { capcut } = require("nayan-video-downloader");
 
 const url = "link" // capcut link
 
@@ -229,7 +229,7 @@ capcut(url).then(data => {
 ```
 ## Usage Likee 
 ```js
-const { likee} = require("nayan-media-downloader");
+const { likee} = require("nayan-video-downloader");
 
  const url = "link" // past url
 likee(url).then(data => { 
@@ -238,7 +238,7 @@ likee(url).then(data => {
 ```
 ## Usage Threads
 ```js
-const { threads } = require("nayan-media-downloader");
+const { threads } = require("nayan-video-downloader");
 
  const url = "link" // past url
 threads(url).then(data => { 
@@ -251,7 +251,7 @@ support url: facebook, tiktok, twitter, instagram, youtube, pinterest, gdrive, c
 note: Let me know if any of the platforms you use are missing
 ```
 ```js
-const {alldown} = require("nayan-media-downloader");
+const {alldown} = require("nayan-video-downloader");
 const url = 'url' // past url
 
   alldown(url).then(data => {
