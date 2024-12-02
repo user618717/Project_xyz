@@ -1,23 +1,23 @@
 <h3 align="center">
   
-  <p align="center"><img src="https://img.shields.io/badge/WLCM%20TO -NAYAN MEDIA DOWNLOADER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">  
+  <p align="center"><img src="https://img.shields.io/badge/WLCM%20TO -RANA VIDEO DOWNLOADER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">  
   
 </h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=25&color=30FF40&background=000000&center=true&vCenter=true&width=360&height=60&lines=Hello+World%2C+I'm+Mr-NAYAN+Here+🤙;𝙸𝚃'𝚜+𝙽𝙾𝚃+𝙰+𝙹𝚄𝚂𝚃+𝙽𝙰𝙼𝙴+𝙱𝚁𝙾+🥱;𝙸𝚃'𝚜+𝙰+𝙱𝚁𝙰𝙽𝙳+🔥;Respect+Mr.NAYAN+🥀;Thanks+My+All+Friend+🤙+🥰)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=25&color=30FF40&background=000000&center=true&vCenter=true&width=360&height=60&lines=Hello+World%2C+I'm+MR-RANA+Here+🤙;𝙸𝚃'𝚜+𝙽𝙾𝚃+𝙰+𝙹𝚄𝚂𝚃+𝙽𝙰𝙼𝙴+𝙱𝚁𝙾+🥱;𝙸𝚃'𝚜+𝙰+𝙱𝚁𝙰𝙽𝙳+🔥;Respect+MR.RANA+🥀;Thanks+My+All+Friend+🤙+🥰)](https://git.io/typing-svg)
 
 
-<a href="https://www.npmjs.com/package/nayan-video-downloader"><img alt="npm version" src="https://img.shields.io/npm/v/nayan-video-downloader.svg?style=flat-square"></a>
-<img alt="version" src="https://img.shields.io/github/package-json/v/MOHAMMAD-NAYAN/nayan-video-downloader?label=github&style=flat-square">
-<a href="https://www.npmjs.com/package/nayan-video-downloader"><img src="https://img.shields.io/npm/dm/nayan-video-downloader.svg?style=flat-square" alt="npm downloads"></a>
-[![Socket Badge](https://socket.dev/api/badge/npm/package/nayan-video-downloader/2.6.7)](https://socket.dev/npm/package/nayan-video-downloader/overview/2.6.7)
-[![js dilvr](https://data.jsdelivr.com/v1/package/npm/nayan-video-downloader/badge)](https://www.jsdelivr.com/package/npm/nayan-video-downloader)
+<a href="https://www.npmjs.com/package/rana-video-downloader"><img alt="npm version" src="https://img.shields.io/npm/v/rana-video-downloader.svg?style=flat-square"></a>
+<img alt="version" src="https://img.shields.io/github/package-json/v/Xaico-RANA/rana-video-downloader?label=github&style=flat-square">
+<a href="https://www.npmjs.com/package/rana-video-downloader"><img src="https://img.shields.io/npm/dm/rana-video-downloader.svg?style=flat-square" alt="npm downloads"></a>
+[![Socket Badge](https://socket.dev/api/badge/npm/package/rana-video-downloader/2.6.7)](https://socket.dev/npm/package/rana-video-downloader/overview/2.6.7)
+[![js dilvr](https://data.jsdelivr.com/v1/package/npm/rana-video-downloader/badge)](https://www.jsdelivr.com/package/npm/rana-video-downloader)
 
-[![GitHub contributors](https://img.shields.io/github/contributors/MOHAMMAD-NAYAN/nayan-video-downloader)](https://github.com/MOHAMMAD-NAYAN/nayan-video-downloader/graphs/contributors) [![GitHub issues](https://img.shields.io/github/issues/MOHAMMAD-NAYAN/nayan-video-downloader)](https://github.com/MOHAMMAD-NAYAN/nayan-video-downloader/issues) [![HitCount](https://views.whatilearened.today/views/github/MOHAMMAD-NAYAN/nayan-video-downloader.svg)](https://github.com/MOHAMMAD-NAYAN/nayan-video-downloader) [![creator nayan69.vercel.app](https://img.shields.io/website-up-info-green-red/http/nayan69.vercel.app/creative-profile-readme.svg)](https://nayan69.vercel.app/)
+[![GitHub contributors](https://img.shields.io/github/contributors/Xaico-RANA/rana-video-downloader)](https://github.com/Xaico-RANA/rana-video-downloader/graphs/contributors) [![GitHub issues](https://img.shields.io/github/issues/Xaico-RANA/rana-video-downloader)](https://github.com/Xaico-RANA/rana-video-downloader/issues) [![HitCount](https://views.whatilearened.today/views/github/Xaico-RANA/rana-video-downloader.svg)](https://github.com/Xaico-RANA/rana-video-downloader) [![creator nayan69.vercel.app](https://img.shields.io/website-up-info-green-red/http/nayan69.vercel.app/creative-profile-readme.svg)](https://nayan69.vercel.app/)
 
 ## Instalation :
 ```bash
-> npm i nayan-video-downloader
+> npm i rana-video-downloader
 ```
 ## Last Update 
 ```print
@@ -28,16 +28,16 @@
 
 ## Example (fb & insta)
 ```js
-const { ndown } = require("nayan-video-downloader")
+const { ndown } = require("rana-video-downloader")
 let URL = await ndown("https://www.facebook.com/100000959749712/posts/pfbid0288xi44nvodK9d7r3wf4LHeM3dtEsVghQXmz5t59axwz7KdLStYyg4qfvTVrAL27Ll/?app=fbl")
 console.log(URL)
 ```
 ## Output Example
 ```
 {
-    "developer": "MOHAMMAD NAYAN",
-    "devfb": "https://www.facebook.com/profile.php?id=100000959749712",
-    "devwp": "wa.me/+8801615298449",
+    "developer": "MOHAMMAD RANA",
+    "devfb": "https://www.facebook.com/rana.is.bisy.okay",
+    "devwp": "wa.me/+8801988686406",
     "status": true,
     "data": [
         {
@@ -69,7 +69,7 @@ console.log(URL)
 ```
 ## Instagram Usage 
 ```js
-const {instagram} = require("nayan-video-downloader");
+const {instagram} = require("rana-video-downloader");
 
 const link = "https://www.instagram.com/p/DAxzjkAyWOm/?igsh=MTZ5eThrMXpteTFpOA==" //past video link
 
@@ -81,16 +81,16 @@ const link = "https://www.instagram.com/p/DAxzjkAyWOm/?igsh=MTZ5eThrMXpteTFpOA==
 ```
 ## Example (TikTok)
 ```js
-const { tikdown } = require("nayan-video-downloader")
+const { tikdown } = require("rana-video-downloader")
 let URL = await tikdown("https://vt.tiktok.com/ZSNvs6h6o/")
 console.log(URL)
 ```
 ## Output Example (tikTok)
 ```
 {
-    "developer": "MOHAMMAD NAYAN",
-    "devfb": "https://www.facebook.com/profile.php?id=100000959749712",
-    "devwp": "wa.me/+8801615298449",
+    "developer": "MOHAMMAD RANA",
+    "devfb": "https://www.facebook.com/rana.is.busy.okay",
+    "devwp": "wa.me/+8801988686406",
     "status": true,
     "data": {
         "author": {
@@ -113,22 +113,22 @@ console.log(URL)
 ```
 ## Example (YouTube)
 ```js
-const { ytdown } = require("nayan-video-downloader")
+const { ytdown } = require("rana-video-downloader")
 let URL = await ytdown("https://youtu.be/aRSuyrZFu_Q?si=bsfzgeeGmRpsHqnF")
 console.log(URL)
 ```
 ## Example (Twitter)
 ```js
-const { twitterdown } = require("nayan-video-downloader")
+const { twitterdown } = require("rana-video-downloader")
 let URL = await twitterdown("https://twitter.com/TeamAbhiSha/status/1743351410761019794?t=vms8wxcU0mQuhVxwGCHjFw&s=19")
 console.log(URL)
 ```
 ## Output Example (Twitter)
 ```
 {
-    "developer": "MOHAMMAD NAYAN",
-    "devfb": "https://www.facebook.com/profile.php?id=100000959749712",
-    "devwp": "wa.me/+8801615298449",
+    "developer": "MOHAMMAD RANA",
+    "devfb": "https://www.facebook.com/rana.is.busy.okay",
+    "devwp": "wa.me/+8801988686406",
     "status": true,
     "data": {
         "HD": "https://video.twimg.com/ext_tw_video/1743351351898181632/pu/vid/avc1/810x720/gKWI2KEyLdRMQBFa.mp4?tag=12",
@@ -138,7 +138,7 @@ console.log(URL)
 ```
 ## Example Fbdown 
 ```js
-const { fbdown } = require("nayan-video-downloader");
+const { fbdown } = require("rana-video-downloader");
 const request = require('request')
 
 const key = "Nayan" //dont change key
@@ -154,9 +154,9 @@ fbdown(link, cookie, key).then(data => {
 ## Output Example (fbdown)
 ```
 {
-    "developer": "MOHAMMAD NAYAN",
-    "devfb": "https://www.facebook.com/profile.php?id=100000959749712",
-    "devwp": "wa.me/+8801615298449",
+    "developer": "MOHAMMAD RANA",
+    "devfb": "https://www.facebook.com/rana.is.busy.okay",
+    "devwp": "wa.me/+8801988686506",
     "url": "https://www.facebook.com/saroj.dwivedi.7121/videos/691539259851175/?idorvanity=213813760197847",
     "thumbnail": "https://scontent.fkul8-4.fna.fbcdn.net/v/t15.5256-10/427275886_286050634275782_6523162309266122490_n.jpg?stp=dst-jpg_p960x960&_nc_cat=104&ccb=1-7&_nc_sid=dd673f&_nc_ohc=8gfhuR00MokAX9K7Xoa&_nc_ht=scontent.fkul8-4.fna&oh=00_AfA0TUr_aw2q146jhqW3Fs-Yd5z0C3O75Hthf7qdLbXKmg&oe=65DB995F",
     "status": true,
@@ -170,7 +170,7 @@ fbdown(link, cookie, key).then(data => {
  ```
 ## Example Fbdown2
 ```js
-const { fbdown2 } = require("nayan-video-downloader");
+const { fbdown2 } = require("rana-video-downloader");
 const request = require('request')
 
 const key = "Nayan" //dont change key
@@ -184,9 +184,9 @@ fbdown2(link, key).then(data => {
 ## Output Example (fbdown2)
 ```
 {
-    "developer": "MOHAMMAD NAYAN",
-    "devfb": "https://www.facebook.com/profile.php?id=100000959749712",
-    "devwp": "wa.me/+8801615298449",
+    "developer": "MOHAMMAD RANA",
+    "devfb": "https://www.facebook.com/rana.is.busy.okay",
+    "devwp": "wa.me/+8801988686406",
     "status": true,
     "media": {
                title: video title,
@@ -198,7 +198,7 @@ fbdown2(link, key).then(data => {
 
 ## Usage GDLink 
 ```js
-const {GDLink} = require("nayan-video-downloader");
+const {GDLink} = require("rana-video-downloader");
 
 const url = 'url' // Public Google Drive Url
 
@@ -209,7 +209,7 @@ GDLink(url).then(data => {
 ```
 ## Usage Pintarest 
 ```js
-const {pintarest} = require("nayan-video-downloader");
+const {pintarest} = require("rana-video-downloader");
 
 const url = 'url' // pintarest post url
 
@@ -219,7 +219,7 @@ const url = 'url' // pintarest post url
 ```
 ## Usage CapCut 
 ```js
-const { capcut } = require("nayan-video-downloader");
+const { capcut } = require("rana-video-downloader");
 
 const url = "link" // capcut link
 
@@ -229,7 +229,7 @@ capcut(url).then(data => {
 ```
 ## Usage Likee 
 ```js
-const { likee} = require("nayan-video-downloader");
+const { likee} = require("rana-video-downloader");
 
  const url = "link" // past url
 likee(url).then(data => { 
@@ -238,7 +238,7 @@ likee(url).then(data => {
 ```
 ## Usage Threads
 ```js
-const { threads } = require("nayan-video-downloader");
+const { threads } = require("rana-video-downloader");
 
  const url = "link" // past url
 threads(url).then(data => { 
@@ -251,7 +251,7 @@ support url: facebook, tiktok, twitter, instagram, youtube, pinterest, gdrive, c
 note: Let me know if any of the platforms you use are missing
 ```
 ```js
-const {alldown} = require("nayan-video-downloader");
+const {alldown} = require("rana-video-downloader");
 const url = 'url' // past url
 
   alldown(url).then(data => {
@@ -261,9 +261,9 @@ const url = 'url' // past url
 ## Output Example (alldown)
 ```
 {
-    "developer": "MOHAMMAD NAYAN",
-    "devfb": "https://www.facebook.com/profile.php?id=100000959749712",
-    "devwp": "wa.me/+8801615298449",
+    "developer": "MOHAMMAD RANA",
+    "devfb": "https://www.facebook.com/rana.is.busy.okay",
+    "devwp": "wa.me/+8801988686406",
     "status": true,
     "media": {
         "title": "video title",
@@ -273,8 +273,8 @@ const url = 'url' // past url
 }
 ```
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp)](https://wa.me/+8801615298449)
-[![Facebook](https://img.shields.io/badge/Facebook-green?style=for-the-badge&logo=facebook)](https://www.facebook.com/www.xnxx.com169)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp)](https://wa.me/+8801988686406)
+[![Facebook](https://img.shields.io/badge/Facebook-green?style=for-the-badge&logo=facebook)](https://www.facebook.com/rana.is.busy.okay)
 [![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://m.me/100000959749712)
-[![Github](https://img.shields.io/badge/Github-MrDarkYTgreen?style=for-the-badge&logo=github)](https://github.com/MOHAMMAD-NAYAN)
+[![Github](https://img.shields.io/badge/Github-MrDarkYTgreen?style=for-the-badge&logo=github)](https://github.com/Xaico-RANA)
 
