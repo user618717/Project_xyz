@@ -1,6 +1,6 @@
 {
-  "name": "nayan-video-downloader",
-  "version": "0.0.2",
+  "name": "rana-video-downloader",
+  "version": "0.0.1",
   "description": "Fetch Url Downloads From Instagram & Facebook & TikTok & YouTube & Twitter & Google Drive & Pintarest & likee & threads",
   "main": "src/index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MOHAMMAD-NAYAN/nayan-video-downloader.git"
+    "url": "git+https://github.com/Xaico-RANA/rana-video-downloader.git"
   },
   "keywords": [
     "instagram",
@@ -41,9 +41,9 @@
   "author": "NAYAN",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/MOHAMMAD-NAYAN/nayan-video-downloader/issues"
+    "url": "https://github.com/Xaico-RANA/rana-video-downloader/issues"
   },
-  "homepage": "https://github.com/MOHAMMAD-NAYAN/nayan-video-downloader#readme",
+  "homepage": "https://github.com/Xaico-RANA/rana-video-downloader#readme",
   "dependencies": {
     "got": "^11.8.3",
     "cheerio": "~1.0.0-rc.5",
