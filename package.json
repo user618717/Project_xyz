@@ -4,11 +4,12 @@
   "description": "Fetch Url Downloads From Instagram & Facebook & TikTok & YouTube & Twitter & Google Drive & Pintarest & likee & threads",
   "main": "rana/index.js",
   "scripts": {
-    "test": "node rana/test.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
+
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Xaico-RANA/rana-video-downloader.git"
+    "url": "git+https://github.com/Xaico-RANA/rana-video-downloader"
   },
   "keywords": [
     "instagram",
@@ -36,27 +37,17 @@
     "capcut",
     "likee",
     "threads",
-    "nayan"
+    "imran"
   ],
-  "author": "NAYAN",
+  "author": "Imran",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/Xaico-RANA/rana-video-downloader/issues"
   },
   "homepage": "https://github.com/Xaico-RANA/rana-video-downloader#readme",
+
   "dependencies": {
-    "got": "^11.8.3",
-    "cheerio": "~1.0.0-rc.5",
-    "axios": "^1.6.7",
-    "request": "^2.88.2",
-    "millify": "^6.1.0"
-  },
-  "devDependencies": {
-    "@types/node": "^22.1.0",
-    "eslint": "^8.57.0",
-    "typescript": "^5.5.4"
-  },
-  "engines": {
-    "node": ">=14.0"
+    "axios": "^1.4.0",
+    "nayan-video-downloader": "^0.0.2"
   }
 }
