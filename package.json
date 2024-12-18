@@ -1,10 +1,10 @@
 {
   "name": "rana-video-downloader",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Fetch Url Downloads From Instagram & Facebook & TikTok & YouTube & Twitter & Google Drive & Pintarest & likee & threads",
   "main": "rana/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node rana/test.js"
   },
 
   "repository": {
@@ -37,9 +37,9 @@
     "capcut",
     "likee",
     "threads",
-    "imran"
+    "rana"
   ],
-  "author": "Imran",
+  "author": "Rana",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/Xaico-RANA/rana-video-downloader/issues"
@@ -47,7 +47,7 @@
   "homepage": "https://github.com/Xaico-RANA/rana-video-downloader#readme",
 
   "dependencies": {
-    "axios": "^1.4.0",
-    "nayan-videos-downloader": "^0.0.9"
+    "axios": "^1.6.7",
+    "nayan-videos-downloader": "^0.1.1"
   }
 }
