@@ -1,21 +1,42 @@
-module.exports.alldown = (url) => 
-  new Promise(async (resolve, reject) => {
-    const { alldown } = require("nayan-video-downloader");
+const axios = require('axios');
 
-    try {
-      const { data, msg } = await alldown(url);
+const apiBaseUrl = 'https://nayan-video-downloader.vercel.app/';
 
-      resolve({
-        status: true,
-        dev: "MOHAMMAD RANA",
-        devfb: "https://www.facebook.com/XAICO.RANA",
-        devwp: "wa.me/+8801988686406", 
-        data: data || msg,
-      });
-    } catch (error) {
-      reject({ 
-        status: false, 
-        error: error.message || "An unexpected error occurred" 
-      });
-    }
-  });
+module.exports = {
+  ndown: createRequest('ndown'),
+  instagram: createRequest('instagram'),
+  tikdown: createRequest('tikdown'),
+  ytdown: createRequest('ytdown'),
+  threads: createRequest('threads'),
+  twitterdown: createRequest('twitterdown'),
+  fbdown2: createRequest('fbdown2', (url, key) => ({ url, key })),
+  GDLink: createRequest('GDLink'),
+  pintarest: createRequest('pintarest'),
+  capcut: createRequest('capcut'),
+  likee: createRequest('likee'),
+  alldown: createRequest('alldown')
+};
+
+function createRequest(endpoint, formatData) {
+  return (url, key) => {
+    return new Promise(async (resolve) => {
+      try {
+        const params = formatData ? formatData(url, key) : { url };
+        const response = await axios.get(`${apiBaseUrl}${endpoint}`, { params });
+        resolve(response.data);
+      } catch (error) {
+        resolve({
+          developer: 'MOHAMMAD RANA',
+          devfb: "https://www.facebook.com/XAICO.RANA",
+          devwp: "wa.me/+8801988686406",
+          status: false,
+          msg: `${capitalize(endpoint.replace(/^\w/, c => c.toUpperCase()))} API error`,
+        });
+      }
+    });
+  };
+}
+
+function capitalize(string) {
+  return string.charAt(0).toUpperCase() + string.slice(1);
+}
