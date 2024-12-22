@@ -1,5 +1,5 @@
 {
-  "name": "rana-video-downloader",
+  "name": "mahabub-video-downloader",
   "version": "0.0.7",
   "description": "Fetch Url Downloads From Instagram & Facebook & TikTok & YouTube & Twitter & Google Drive & Pintarest & likee & threads",
   "main": "rana/index.js",
@@ -9,7 +9,7 @@
 
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Xaico-RANA/rana-video-downloader"
+    "url": "git+https:/user618717/github.com//rana-video-downloader"
   },
   "keywords": [
     "instagram",
@@ -39,12 +39,12 @@
     "threads",
     "rana"
   ],
-  "author": "Rana",
+  "author": "Mahabub",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Xaico-RANA/rana-video-downloader/issues"
+    "url": "https://github.com/user618717/rana-video-downloader/issues"
   },
-  "homepage": "https://github.com/Xaico-RANA/rana-video-downloader#readme",
+  "homepage": "https://github.com/user618717/rana-video-downloader#readme",
 
   "dependencies": {
     "axios": "^1.6.7",
