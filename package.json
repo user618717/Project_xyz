@@ -1,6 +1,6 @@
 {
   "name": "Project_xyz",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "description": "Fetch Url Downloads From Instagram & Facebook & TikTok & YouTube & Twitter & Google Drive & Pintarest & likee & threads",
   "main": "Mahabub/index.js",
   "scripts": {
@@ -44,7 +44,7 @@
   "bugs": {
     "url": "https://github.com/user618717/Project_xyz/issues"
   },
-  "homepage": "https://github.com/user618717/rana-video-downloader#readme",
+  "homepage": "https://github.com/user618717/Project_xyz#readme",
 
   "dependencies": {
     "axios": "^1.6.7",
