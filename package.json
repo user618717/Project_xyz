@@ -1,6 +1,6 @@
 {
   "name": "Project_xyz",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Fetch Url Downloads From Instagram & Facebook & TikTok & YouTube & Twitter & Google Drive & Pintarest & likee & threads",
   "main": "Mahabub/index.js",
   "scripts": {
@@ -37,7 +37,7 @@
     "capcut",
     "likee",
     "threads",
-    "Mahabub"
+    "rana"
   ],
   "author": "",
   "license": "MIT",
