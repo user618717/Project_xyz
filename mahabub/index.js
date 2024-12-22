@@ -26,7 +26,7 @@ function createRequest(endpoint, formatData) {
         resolve(response.data);
       } catch (error) {
         resolve({
-          developer: 'MOHAMMAD MAHABUB',
+          developer: 'MAHABUB RAHMAN',
           devfb: "https://www.facebook.com/www.xnxx.com.140",
           devwp: "wa.me/+01613356376",
           status: false,
