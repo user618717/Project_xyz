@@ -1,15 +1,15 @@
 {
-  "name": "mahabub-video-downloaderez",
+  "name": "Project_xyz",
   "version": "0.0.9",
   "description": "Fetch Url Downloads From Instagram & Facebook & TikTok & YouTube & Twitter & Google Drive & Pintarest & likee & threads",
-  "main": "rana/index.js",
+  "main": "Mahabub/index.js",
   "scripts": {
-    "test": "node rana/test.js"
+    "test": "node Mahabub/test.js"
   },
 
   "repository": {
     "type": "git",
-    "url": "git+https:/user618717/github.com//rana-video-downloader"
+    "url": "git+https:/user618717/github.com//Project_xyz"
   },
   "keywords": [
     "instagram",
@@ -37,12 +37,12 @@
     "capcut",
     "likee",
     "threads",
-    "rana"
+    "Mahabub"
   ],
   "author": "Mahabub",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/user618717/rana-video-downloader/issues"
+    "url": "https://github.com/user618717/Project_xyz/issues"
   },
   "homepage": "https://github.com/user618717/rana-video-downloader#readme",
 
