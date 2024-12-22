@@ -1,6 +1,6 @@
 {
-  "name": "mahabub-video-downloader",
-  "version": "0.0.8",
+  "name": "mahabub-video-downloaderez",
+  "version": "0.0.9",
   "description": "Fetch Url Downloads From Instagram & Facebook & TikTok & YouTube & Twitter & Google Drive & Pintarest & likee & threads",
   "main": "rana/index.js",
   "scripts": {
